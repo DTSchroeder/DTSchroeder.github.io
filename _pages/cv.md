@@ -18,12 +18,12 @@ redirect_from:
 
 Professional Experience
 ======
-2023 - now\.  Research Scientist Sintef <br />
-2023 - now\.  Associate Professor Oslo Metropolitan University <br />
-2021 - 2023\. Postdoctoral Fellow Simula Research Laboratory <br />
-2021 - 2022\. Research Assistant Oslo Metropolitan University <br />
-2018 - 2021\. Phd Student Simula Research Laboratory & Technical University of Berlin <br />
-2016 - 2017\. Student Assistant at the department for Complex and Distributed IT Systems <br />
+2023 - now\.  Research Scientist Sintef. <br />
+2023 - now\.  Associate Professor Oslo Metropolitan University. <br />
+2021 - 2023\. Postdoctoral Fellow Simula Research Laboratory. <br />
+2021 - 2022\. Research Assistant Oslo Metropolitan University. <br />
+2018 - 2021\. Phd Student Simula Research Laboratory & Technical University of Berlin. <br />
+2016 - 2017\. Student Assistant at the department for Complex and Distributed IT Systems. <br />
 
 Education
 ======
@@ -38,4 +38,11 @@ Research Expertise
 * Computational Social Science.
 * Complex Networks.
 * Graph Neural Networks.
-* 
+* Data Management.
+
+Language Skills
+======
+* German (+)
+* English (+)
+* Portuguese (+-)
+* Norwegian Bokmål (-)
