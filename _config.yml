@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Daniel Thilo Schroeder"
   avatar           : "profile.png"
-  bio              : "Computers, Graphs, and Conspiracies - Researcher at Sintef, Associate Professor at OsloMet"
+  bio              : "**Computers, Graphs, and Conspiracies** \ *Researcher at Sintef \ Associate Professor at OsloMet*"
   location         : "Oslo, Norway"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=BmZRVWQAAAAJ&hl=en&oi=ao"
+  email            : "daniels@simula.no"
   researchgate     : "https://www.researchgate.net/profile/Daniel-Schroeder-11" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
