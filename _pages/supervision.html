@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Supervision"
+permalink: /supervision/
+author_profile: true
+---
+
+{% if site.supervisionmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/supervisionmap.html">Students I have super- and All the students I have supervised and co-supervised</a></p>
+
+{% endif %}
+
+{% for post in site.supervisions reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
