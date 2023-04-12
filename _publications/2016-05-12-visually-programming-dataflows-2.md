@@ -15,7 +15,7 @@ Distributed dataflow systems like Spark and Flink allow to analyze large dataset
 ## Bibtex
 
 ```
-@inproceedings{DBLP:conf/bigdataconf/ThamsenRBPSB16,
+@inproceedings{ThamsenRBPSB16,
   author    = {Lauritz Thamsen and
                Thomas Renner and
                Marvin Byfeld and
@@ -36,10 +36,10 @@ Distributed dataflow systems like Spark and Flink allow to analyze large dataset
                Rama Govindaraju and
                Toyotaro Suzumura},
   title     = {Visually programming dataflows for distributed data analytics},
-  booktitle = {2016 /\{IEEE/\} International Conference on Big Data /\{IEEE/\} BigData 2016,
+  booktitle = {2016 IEEE International Conference on Big Data IEEE BigData 2016,
                Washington DC, USA, December 5-8, 2016},
   pages     = {2276--2285},
-  publisher = {/\{IEEE/\} Computer Society},
+  publisher = {IEEE Computer Society},
   year      = {2016},
   url       = {https://doi.org/10.1109/BigData.2016.7840860},
   doi       = {10.1109/BigData.2016.7840860},
