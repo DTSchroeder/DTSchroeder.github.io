@@ -15,7 +15,7 @@ We design a system for efficient in-memory analysis of data from the GDELT datab
 ## Bibtex
 
 ```
-@inproceedings{DBLP:conf/ipps/PogorelovSFL20,
+@inproceedings{PogorelovSFL20,
   author       = {Konstantin Pogorelov and
                   Daniel Thilo Schroeder and
                   Petra Filkukova and
