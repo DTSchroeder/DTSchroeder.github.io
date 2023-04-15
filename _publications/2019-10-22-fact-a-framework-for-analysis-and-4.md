@@ -21,7 +21,7 @@ In the recent years, online social networks have become an important source of n
                   Johannes Langguth},
   editor       = {Mohammad A. Alsmirat and
                   Yaser Jararweh},
-  title        = {{FACT:} a Framework for Analysis and Capture of Twitter Graphs},
+  title        = {FACT: a Framework for Analysis and Capture of Twitter Graphs},
   booktitle    = {Sixth International Conference on Social Networks Analysis, Management
                   and Security, SNAMS 2019, Granada, Spain, October 22-25, 2019},
   pages        = {134--141},
