@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-05-01-a-system-for-high-performance-mining-5
 excerpt: 'The paper an introduces an efficient system for in-memory analysis of data from the GDELT database, utilizing modern parallel high-performance computing hardware. Our experiments with the GDELT 2.0 database, containing over a billion news items, revealed significant trends in online news.'
 date: 2020-05-01
-venue: 'Sixth International Conference on Social Networks Analysis, Management and Security (SNAMS)'
+venue: 'IEEE Workshop on Parallel and Distributed Processing for Computational Social Systems'
 # paperurl: 'https://ieeexplore.ieee.org/document/8931841'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
