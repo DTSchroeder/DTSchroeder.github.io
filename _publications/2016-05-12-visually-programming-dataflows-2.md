@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-05-12-visually-programming-dataflows-2
 excerpt: 'The paper discusses the use of visual programming in the development of parallel dataflow programs for distributed dataflow systems such as Flink. A prototypical visual programming environment called Flision was built and evaluated through qualitative user testing, indicating that visual programming can be a valuable tool for users of scalable data analysis tools.'
 date: 2016-05-12
-venue: '2016 IEEE International Conference on Big Data (Big Data)'
+venue: 'IEEE International Conference on Big Data (Big Data)'
 # paperurl: 'https://ieeexplore.ieee.org/abstract/document/7840860'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

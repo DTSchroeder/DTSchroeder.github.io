@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-11-01-a-framework-for-interaction-based-6
 excerpt: 'The paper presents a method to calculate an acquaintance score between Twitter users for analyzing information propagation. The proposed method considers response time and enables time-based spreading comparisons. This approach addresses the need for obtaining weighted edges from communication on social networks and enables the detection of unusual communication patterns.'
 date: 2021-02-01
-venue: '2021 Complex Networks and their applications'
+venue: 'Complex Networks and their applications'
 # paperurl: 'https://ieeexplore.ieee.org/document/8931841'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

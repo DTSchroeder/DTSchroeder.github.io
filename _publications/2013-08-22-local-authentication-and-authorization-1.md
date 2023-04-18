@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2013-08-22-local-authentication-and-authorization-1
 excerpt: 'Discusses the difficulties in setting up complex cloud solutions, proposing a concept to simplify the process through the mapping of cloud resources to the permission management of a Unix-like operating system and a separation of cloud middleware and operating system interactions.'
 date: 2012-08-22
-venue: '2013 International Conference on Advances in Computing, Communications and Informatics (ICACCI)'
+venue: 'International Conference on Advances in Computing, Communications and Informatics (ICACCI)'
 # paperurl: 'https://ieeexplore.ieee.org/document/6637429'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

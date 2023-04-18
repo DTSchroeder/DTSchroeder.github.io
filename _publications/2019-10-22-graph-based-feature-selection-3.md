@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-10-22-graph-based-feature-selection-3
 excerpt: 'The paper proposed a novel graph-based feature selection filter to address the challenge of reducing feature vectors for binary decision problems. The approach considers both feature importance and correlation, and evaluation shows that it outperforms existing baseline feature selection approaches in approximately 69% of cases, delivering the highest accuracy while reducing the number of features.'
 date: 2019-10-22
-venue: '2019 Sixth International Conference on Social Networks Analysis, Management and Security (SNAMS)'
+venue: 'Sixth International Conference on Social Networks Analysis, Management and Security (SNAMS)'
 # paperurl: 'https://ieeexplore.ieee.org/document/8931841'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
