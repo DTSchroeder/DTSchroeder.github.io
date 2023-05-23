@@ -39,3 +39,13 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.style1 {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+.style1:hover {
+    background-color: #bbbbbb;
+}
