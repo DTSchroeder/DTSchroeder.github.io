@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Supervisions"
+permalink: /supervisions/
+author_profile: true
+---
+
+{% include base_path %}
+{% for post in site.supervisions reversed %}
+  {% include archive-single-supervision.html %}
+{% endfor %}
