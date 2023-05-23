@@ -15,26 +15,19 @@
 
 
 
-<!-- <ul>
-  <li>Coffee</li>
-  <li>Tea
-    <ul>
-      <li>Black tea</li>
-      <li>Green tea</li>
-    </ul>
-  </li>
-  <li>Milk</li>
-</ul> -->
 
-<!-- <li>Black tea</li> -->
+
+<li>
+  <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+</li>
 
 
 
-<h2 class="archive__item-title" itemprop="headline">
+<!-- <h2 class="archive__item-title" itemprop="headline">
   {% if post.link %}
     <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
   {% else %}
     <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
   {% endif %}
-</h2>
+</h2> -->
 
