@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Thilo Schroeder"
+  name             : ""
   avatar           : "daniel.png"
-  bio              : "Computers, Graphs, and Conspiracies - Researcher at Sintef Associate Professor at OsloMet"
+  bio              : ""
   location         : "Oslo, Norway"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Daniel+Thilo+Schroeder"
