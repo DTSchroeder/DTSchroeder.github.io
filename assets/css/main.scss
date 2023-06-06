@@ -68,26 +68,11 @@ a.style1:active {
 .uni {
   font-style: italic;
   font-size: x-small;
+  display:inline-block;
 }
   
 .author {
   font-style: italic;
   font-size: small;
-} 
-
-#wrapper {
-  width: 500px;
-  // border: 1px solid black;
-  overflow: hidden; /* will contain if #first is longer than #second */
-}
-
-#wleft {
-  // width: 300px;
-  float:left; /* add this */
-  // border: 1px solid red;
-}
-
-#wright {
-  // border: 1px solid green;
-  overflow: hidden; /* if you don't want #second to wrap below #first */
+  display:inline-block;
 }
