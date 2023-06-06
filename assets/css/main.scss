@@ -77,16 +77,17 @@ a.style1:active {
 
 #wrapper {
   width: 500px;
-  border: 1px solid black;
+  // border: 1px solid black;
   overflow: hidden; /* will contain if #first is longer than #second */
 }
+
 #wleft {
-  width: 300px;
+  // width: 300px;
   float:left; /* add this */
-  border: 1px solid red;
+  // border: 1px solid red;
 }
 
 #wright {
-  border: 1px solid green;
+  // border: 1px solid green;
   overflow: hidden; /* if you don't want #second to wrap below #first */
 }
