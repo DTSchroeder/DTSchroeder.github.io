@@ -42,6 +42,9 @@
 
 .style1 {
   color: black;
+}
+
+.style1 a:link {
   text-decoration: none;
 }
 
@@ -50,6 +53,6 @@
 }
   
 .style1:hover {
-    background-color: #bbbbbb;
+    // background-color: #bbbbbb;
     border-bottom-color: #fff9;
 }
