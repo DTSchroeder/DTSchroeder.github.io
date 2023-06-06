@@ -15,9 +15,13 @@
 
 <li>
   <div>
-    <div class="author">{{ post.student }}:</div>
     <a href="{{ base_path }}/files/theses/{{post.file}}" class="style1" rel="permalink">{{ title }}</a><br>
-    <div class="uni">{{ post.uni }}</div>
+    <div class="author">{{ post.student }}:</div> <div class="uni">({{ post.uni }})
+      <div id="wrapper">
+        <div id="wleft" class="author">{{ post.student }}</div>
+        <div id="wright" class="uni">({{ post.uni }})</div>
+    </div>
+    </div>
   </div>
 </li>
 
