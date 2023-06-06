@@ -45,11 +45,23 @@ a.style1:link {
   text-decoration: none;
 }
 
+a.style1:hover {
+  color: #A0A0A0;
+  text-decoration: none;
+}
+
+a.style1:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a.style1:active {
+  color: black;
+  text-decoration: none;
+}
+
 .conference {
   font-style: italic;
   font-size: medium;
 }
   
-.style1:hover {
-  color: #A0A0A0;
-}

@@ -6,8 +6,8 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Supervision"
-  #   url: /supervisions/    
+  - title: "Supervision"
+    url: /supervisions/    
     
   # - title: "Projects"
   #   url: /projects/
