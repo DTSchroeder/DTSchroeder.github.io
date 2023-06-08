@@ -9,9 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Functions
+======
+
 * _Research Scientist_ Sintef (Sustainable Communication Technologies)
-* _External Supervisor_ Simula Research Laboratory (High Performance Computing)
 * _Associate Professor_ Oslo Metropolitan University (Journalism and Media Studies)
+* _External Supervisor_ Simula Research Laboratory (High Performance Computing)
 * _Member of Institute of Electrical and Electronics Engineers (IEEE)_
 * _Alumni Technical University of Berlin_
 * _Alumni Academy of International Affairs NRW_
