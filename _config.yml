@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "daniel.png"
+  avatar           : "daniel_thilo_schroeder.png"
   bio              : ""
   location         : "Oslo, Norway"
   employer         :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  academia         : "https://simula.academia.edu/DanielThiloSchroeder"
+  academia         : "https://sintef.academia.edu/DanielThiloSchroeder"
   frontiers        : "https://loop.frontiersin.org/people/1149934/overview"
   osf              : "https://osf.io/rw7t4/"
 
