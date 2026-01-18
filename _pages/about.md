@@ -8,15 +8,88 @@ redirect_from:
   - /about.html
 ---
 
-As a Research Scientist at [SINTEF](https://www.sintef.no/en/)'s [Smart Data](https://www.sintef.no/en/expertise/digital/sustainable-communication-technologies/smart-data/) group, I work closely with [Dumitru Roman](https://scholar.google.no/citations?user=-B2n3KsAAAAJ&hl=no) on the [Graph-Massivizer](https://graph-massivizer.eu/) project. Here, we aim to develop a high-performance, scalable, and sustainable platform capable of processing and reasoning about extreme data through massive graph representation. By leveraging serverless computing, our project empowers various organizations to efficiently manage extreme data via massive graph programming and processing.
+<p>
+  I am a Research Scientist at <a href="https://www.sintef.no/en/">SINTEF</a> in the
+  <a href="https://www.sintef.no/en/expertise/digital/sustainable-communication-technologies/smart-data/">Smart Data</a> group.
+  I work on scalable data systems and information integrity—building methods for processing and reasoning over extreme-scale data,
+  and developing ways to measure, simulate, and mitigate AI-enabled manipulation in online information ecosystems.
+  A recurring theme in my work is <strong>measurement, simulation, and stress-testing</strong>: making threats and defenses observable, comparable, and testable.
+</p>
 
-At the same time, I am involved in the [enRichMyData](https://enrichmydata.eu/) project. In this initiative, we're crafting a new paradigm for building rich, high-quality, valuable, and FAIR-compliant datasets, which are vital for the success of Big Data Analytics and Artificial Intelligence applications. We focus on streamlining the specification and execution of data enrichment pipelines, a critical but often time-consuming process which involves data discovery, cleaning, transformation, and integration. Our goal is to make these steps more accessible and cost-effective for a broad range of organizations, particularly those facing challenges in delivering suitable data due to a lack of usable tools or expertise in managing data enrichment pipelines.
+<p>Current interests:</p>
+<ul>
+  <li>Scalable graph-based computation for extreme-scale data</li>
+  <li>Simulation and evaluation of AI-enabled disinformation and influence operations</li>
+  <li>Data infrastructure and interoperability for marine and environmental domains</li>
+</ul>
 
-In my capacity as an Associate Professor at the [Oslo Metropolitan University](https://www.oslomet.no/), I'm part of the [DD-MAC](https://decodingdigitalmedia.org/) project. This project is committed to understanding the role of social media in conflict regions of sub-Saharan Africa. Here, I'm privileged to collaborate with [Kristin Skare Orgeret](https://scholar.google.com/citations?user=J9G5b3sAAAAJ&hl=en), [Bruce Mutsvairo](https://scholar.google.de/citations?user=jPj89kIAAAAJ&hl=en), and [Mirjam de Bruijn](https://scholar.google.com/citations?user=-VvmgAMAAAAJ&hl=en). Our efforts center on collecting empirical evidence from Ethiopia and Mali to understand the influence of digital communication on conflict development and mediation. By employing a multi-disciplinary approach and diverse methodologies, we study social media usage dynamics, the spread of disinformation and hate speech, the role of diasporas in conflicts, and the relationship between digital and traditional media in regions with low internet connectivity.
+<p>
+  Most recently, I led an article on malicious AI swarms together with
+  <a href="https://www.bi.no/om-bi/ansatte/institutt-for-kommunikasjon-og-kultur/jonas-r.-kunst">Jonas R. Kunst</a>
+  (<a href="https://www.uio.no/english/">University of Oslo</a> and
+  <a href="https://www.bi.no/en/">BI Norwegian Business School</a>),
+  available as a preprint here:
+  <a href="https://arxiv.org/abs/2506.06299">https://arxiv.org/abs/2506.06299</a>.
+</p>
 
-During my postdoc in [Simula](https://www.simula.no/)'s [Department for High Performance Computing](https://www.simula.no/research/projects/department-high-performance-computing), I worked with [Johannes Langguth](https://scholar.google.com/citations?user=ilbKQMYAAAAJ&hl=en), [Xing Cai](https://scholar.google.com/citations?user=IWQbrcK5CEwC&hl=en), and [Fredrik Manne](https://scholar.google.no/citations?user=K-N0vTcAAAAJ&hl=no). Here, we focused on the development of a new computational framework for Graph Neural Networks with the goal of extending deep learning capabilities to unstructured data.
+<p>
+  I also collaborate with
+  <a href="https://www.sintef.no/alle-ansatte/ansatt/arne.j.berre/">Arne Jørgen Berre</a>
+  on a cluster of projects advancing data infrastructure and interoperability for marine and environmental domains, including
+  <a href="https://seadito.eu/">Seadito</a>,
+  <a href="https://aquainfra.eu/">AquaInfra</a>, and
+  <a href="https://www.sintef.no/en/projects/2025/datapact222/">Geo4Water</a>.
+</p>
 
-Under the supervision of Professor [Odej Kao](https://scholar.google.no/citations?hl=no&user=mvOSfFAAAAAJ) from the [Technical University of Berlin](https://www.tu.berlin/), in collaboration with [Carsten Griwodz](https://scholar.google.no/citations?user=l2Q_qY0cRkgC&hl=no), [Pål Halvorsen](https://scholar.google.com/citations?user=hru0ei0AAAAJ&hl=en), and [Michael Riegler](https://scholar.google.com/citations?user=Vd_ApDoAAAAJ&hl=en) from the [Simula Metropolitan Center for Digital Engineering](https://www.simulamet.no/), I received my PhD as part of [Johannes Langguth](https://scholar.google.com/citations?user=ilbKQMYAAAAJ&hl=en)'s [UMOD](https://www.simula.no/research/projects/umod-understanding-and-monitoring-digital-wildfires) project. This project centered on understanding and monitoring of digital wildfires or the rapid spread of online misinformation with the goal to identify harmful misinformation early, analyze its potential threat, and devise effective prevention and preparedness strategies.
+<p>
+  In parallel, I work with
+  <a href="https://www.mpi-sp.org/cha">Meeyoung ("Mia") Cha</a> and
+  <a href="https://www.mpi-sp.org/person/138776">Wenchao Dong</a>
+  at the <a href="https://www.mpi-sp.org/">Max Planck Institute for Security and Privacy</a>
+  on simulating fully automated disinformation campaigns. This initiative is supported by
+  <a href="https://scholar.google.com/citations?user=_EQPk6YAAAAJ&amp;hl=en">Signe Riemer-Sørensen</a>
+  in <a href="https://www.sintef.no/sintef-digital/avdelinger/avdeling-matematikk-og-kybernetikk/analytics-and-artificial-intelligence/">SINTEF's Analytics and Artificial Intelligence</a> group.
+</p>
+
+<p>
+  In the now-completed <a href="https://graph-massivizer.eu/">Graph-Massivizer</a> project, I worked with
+  <a href="https://scholar.google.no/citations?user=-B2n3KsAAAAJ&amp;hl=no">Dumitru Roman</a>,
+  <a href="https://scholar.google.com/citations?user=7wwQ7twAAAAJ&amp;hl=en">Alexandru Iosup</a>, and
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=JuZrOtoAAAAJ&amp;view_op=list_works">Michael Cochez</a>
+  on scalable approaches to processing and reasoning about extreme data through massive graph representations, exploring how serverless computing can support
+  efficient massive-graph programming and processing.
+</p>
+
+<p>
+  Previously, I served as an Associate Professor at the <a href="https://www.oslomet.no/">Oslo Metropolitan University</a> and was part of the
+  <a href="https://decodingdigitalmedia.org/">DD-MAC</a> project, which studied the role of social media in conflict regions of sub-Saharan Africa.
+  Together with <a href="https://scholar.google.com/citations?user=J9G5b3sAAAAJ&amp;hl=en">Kristin Skare Orgeret</a>,
+  <a href="https://scholar.google.de/citations?user=jPj89kIAAAAJ&amp;hl=en">Bruce Mutsvairo</a>, and
+  <a href="https://scholar.google.com/citations?user=-VvmgAMAAAAJ&amp;hl=en">Mirjam de Bruijn</a>,
+  we collected empirical evidence from Ethiopia and Mali on how digital communication shapes conflict development and mediation, including disinformation,
+  hate speech, diaspora dynamics, and the interplay between digital and traditional media in low-connectivity regions.
+</p>
+
+<p>
+  During my postdoc in <a href="https://www.simula.no/">Simula</a>'s
+  <a href="https://www.simula.no/research/projects/department-high-performance-computing">Department for High Performance Computing</a>,
+  I worked with <a href="https://scholar.google.com/citations?user=ilbKQMYAAAAJ&amp;hl=en">Johannes Langguth</a>,
+  <a href="https://scholar.google.com/citations?user=IWQbrcK5CEwC&amp;hl=en">Xing Cai</a>, and
+  <a href="https://scholar.google.no/citations?user=K-N0vTcAAAAJ&amp;hl=no">Fredrik Manne</a>
+  on computational frameworks for Graph Neural Networks, with the goal of extending deep learning capabilities to unstructured data.
+</p>
+
+<p>
+  Under the supervision of Professor <a href="https://scholar.google.no/citations?hl=no&amp;user=mvOSfFAAAAAJ">Odej Kao</a> at the
+  <a href="https://www.tu.berlin/">Technical University of Berlin</a>, in collaboration with
+  <a href="https://scholar.google.no/citations?user=l2Q_qY0cRkgC&amp;hl=no">Carsten Griwodz</a>,
+  <a href="https://scholar.google.com/citations?user=hru0ei0AAAAJ&amp;hl=en">Pål Halvorsen</a>, and
+  <a href="https://scholar.google.com/citations?user=Vd_ApDoAAAAJ&amp;hl=en">Michael Riegler</a>
+  at the <a href="https://www.simulamet.no/">Simula Metropolitan Center for Digital Engineering</a>,
+  I received my PhD as part of <a href="https://www.simula.no/research/projects/umod-understanding-and-monitoring-digital-wildfires">UMOD</a>,
+  focused on understanding and monitoring "digital wildfires"—the rapid spread of online misinformation—with the goal to identify harmful misinformation early,
+  analyze its potential threat, and devise prevention and preparedness strategies.
+</p>
 
 
 <!-- [SINTEF](https://www.sintef.no/en/) -->
