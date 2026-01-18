@@ -115,11 +115,24 @@
 {% if site.social %}
   <script type="application/ld+json">
     {
-      "@context" : "http://schema.org",
+      "@context" : "https://schema.org",
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
       "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "sameAs" : {{ site.social.links | jsonify }},
+      "description" : "Research Scientist at SINTEF specializing in scalable data systems, information integrity, and AI-enabled disinformation. Works on graph-based computation, simulation of influence operations, and data infrastructure for marine and environmental domains.",
+      "jobTitle" : "Research Scientist",
+      "worksFor" : {
+        "@type" : "Organization",
+        "name" : "SINTEF",
+        "url" : "https://www.sintef.no/en/"
+      },
+      "alumniOf" : {
+        "@type" : "CollegeOrUniversity",
+        "name" : "Technical University of Berlin",
+        "url" : "https://www.tu.berlin/"
+      },
+      "knowsAbout" : ["Big Data Analytics", "Graph Neural Networks", "Disinformation", "Social Network Analysis", "High Performance Computing"]
     }
   </script>
 {% endif %}
