@@ -10,7 +10,7 @@ redirect_from:
 
 <p>
   I am a Research Scientist at <a href="https://www.sintef.no/en/">SINTEF</a> in the
-  <a href="https://www.sintef.no/en/expertise/digital/sustainable-communication-technologies/smart-data/">Smart Data</a> group.
+  <a href="https://www.sintef.no/en/digital/departments/department-of-sustainable-communication-technologies/smart-data-research-group/">Smart Data</a> group.
   I work on scalable data systems and information integrity—building methods for processing and reasoning over extreme-scale data,
   and developing ways to measure, simulate, and mitigate AI-enabled manipulation in online information ecosystems.
   A recurring theme in my work is <strong>measurement, simulation, and stress-testing</strong>: making threats and defenses observable, comparable, and testable.
