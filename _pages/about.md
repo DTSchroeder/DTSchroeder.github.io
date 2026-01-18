@@ -18,8 +18,8 @@ redirect_from:
 
 <p>Current interests:</p>
 <ul>
+  <li><strong>Simulation and evaluation of AI-enabled disinformation and influence operations</strong></li>
   <li>Scalable graph-based computation for extreme-scale data</li>
-  <li>Simulation and evaluation of AI-enabled disinformation and influence operations</li>
   <li>Data infrastructure and interoperability for marine and environmental domains</li>
 </ul>
 
