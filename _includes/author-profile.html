@@ -124,8 +124,11 @@
       {% if author.osf %}
         <li><a href="{{ author.osf }}"><i class="ai ai-osf ai-fw"></i> Osf</a></li>
       {% endif %} 
-      {% if author.osf %}
+      {% if author.mastodon %}
         <li><a href="{{ author.mastodon }}"><i class="fab fa-brands fa-mastodon"></i> Mastodon</a></li>
+      {% endif %}
+      {% if author.bluesky %}
+        <li><a href="{{ author.bluesky }}"><i class="fab fa-brands fa-bluesky"></i> Bluesky</a></li>
       {% endif %}   
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
