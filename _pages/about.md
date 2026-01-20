@@ -81,7 +81,9 @@ redirect_from:
 
 <p>
   Under the supervision of Professor <a href="https://scholar.google.no/citations?hl=no&amp;user=mvOSfFAAAAAJ">Odej Kao</a> at the
-  <a href="https://www.tu.berlin/">Technical University of Berlin</a>, in collaboration with
+  <a href="https://www.tu.berlin/">Technical University of Berlin</a> and
+  <a href="https://scholar.google.com/citations?user=ilbKQMYAAAAJ&amp;hl=en">Johannes Langguth</a> at
+  <a href="https://www.simula.no/">Simula Research Laboratory</a>, in collaboration with
   <a href="https://scholar.google.no/citations?user=l2Q_qY0cRkgC&amp;hl=no">Carsten Griwodz</a>,
   <a href="https://scholar.google.com/citations?user=hru0ei0AAAAJ&amp;hl=en">Pål Halvorsen</a>, and
   <a href="https://scholar.google.com/citations?user=Vd_ApDoAAAAJ&amp;hl=en">Michael Riegler</a>
