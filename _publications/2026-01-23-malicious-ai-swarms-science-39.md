@@ -9,6 +9,8 @@ Malicious AI swarms pose emergent threats to democracy by manufacturing fake pub
 
 [Download paper here](https://www.science.org/doi/10.1126/science.adz1697)
 
+[Preprint on arXiv](https://arxiv.org/abs/2506.06299)
+
 ## Bibtex
 
 ```
