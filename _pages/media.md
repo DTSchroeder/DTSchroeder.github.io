@@ -13,6 +13,10 @@ Coverage of my research in international media, particularly regarding the *Scie
 
 - **NRK** (February 2026): [Falske folkebevegelser truer demokratiet](https://www.nrk.no/ytring/falske-folkebevegelser-truer-demokratiet-1.17745926) — Opinion piece on how fake grassroots movements powered by AI threaten democracy.
 
+- **Tagesschau (ARD)** (February 2026): [KI-Schwärme könnten die Demokratie gefährden](https://www.tagesschau.de/wissen/forschung/ki-mehrheitsmeinung-schwaerme-demokratie-100.html) — German public broadcaster coverage on how AI swarms could endanger democracy.
+
+- **WELT** (February 2026): ["Die Frage ist nicht, ob es sie gibt, sondern in welchem Ausmaß sie bereits operieren"](https://www.welt.de/wissenschaft/plus699441386e842744e5c5813b/ki-schwaerme-die-frage-ist-nicht-ob-es-sie-gibt-sondern-in-welchem-ausmass-sie-bereits-operieren.html) — In-depth feature on AI swarms and their potential scale of operation.
+
 - **Der Spiegel** (February 12, 2026): [Künstliche Intelligenz: Experten warnen vor KI-Schwärmen, die unsere Demokratie bedrohen](https://www.spiegel.de/wissenschaft/kuenstliche-intelligenz-experten-warnen-vor-ki-schwaermen-die-unsere-demokratie-bedrohen-das-wollen-sie-dagegen-tun-a-5d2c1d5e-8b1c-4ada-a1c9-3492061decf9) — Detailed feature initiated by Schroeder and Kunst, focusing on threats and countermeasures.
 
 - **SciTechDaily** (February 4, 2026): [The AI Threat You'll Never See Coming Is Already Talking to You Online](https://scitechdaily.com/the-ai-threat-youll-never-see-coming-is-already-talking-to-you-online) — Repackages UBC-sourced warnings on unseen online manipulation and influence on elections.
