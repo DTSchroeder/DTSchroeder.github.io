@@ -7,6 +7,16 @@ author_profile: true
 
 Coverage of my research in international media, particularly regarding the *Science* Policy Forum article on AI swarms and democracy.
 
+---
+
+## Short Profile
+
+Daniel Thilo Schroeder is a research scientist in AI and computational social science whose work explores how AI-driven influence dynamics affect information ecosystems, democratic resilience, and societal security.
+
+📷 [Photos for media use](https://drive.google.com/drive/folders/1tjSgugF3_InpNEbCPUgza-sNnWh9lJnO?usp=drive_link)
+
+---
+
 ## 2026
 
 ### February
