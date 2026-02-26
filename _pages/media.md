@@ -11,6 +11,8 @@ Coverage of my research in international media, particularly regarding the *Scie
 
 ### February
 
+- **CT24 (Czech Television)** (February 2026): [Roje AI mohou rozvrátit demokracie, varují výzkumníci](https://ct24.ceskatelevize.cz/clanek/veda/roje-ai-mohou-rozvratit-demokracie-varuji-vyzkumnici-370639) — Czech public broadcaster coverage on how AI swarms could disrupt democracies.
+
 - **NRK** (February 2026): [Falske folkebevegelser truer demokratiet](https://www.nrk.no/ytring/falske-folkebevegelser-truer-demokratiet-1.17745926) — Opinion piece on how fake grassroots movements powered by AI threaten democracy.
 
 - **Tagesschau (ARD)** (February 2026): [KI-Schwärme könnten die Demokratie gefährden](https://www.tagesschau.de/wissen/forschung/ki-mehrheitsmeinung-schwaerme-demokratie-100.html) — German public broadcaster coverage on how AI swarms could endanger democracy.
