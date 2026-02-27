@@ -21,6 +21,8 @@ Daniel Thilo Schroeder is a research scientist in AI and computational social sc
 
 ### February
 
+- **Radio Ecoshock** (February 2026): [AI Swarms: We Are Not Ready](https://www.ecoshock.org/2026/02/ai-swarms-we-are-not-ready.html) — Radio interview on AI swarms and their threat to democracy.
+
 - **CT24 (Czech Television)** (February 2026): [Roje AI mohou rozvrátit demokracie, varují výzkumníci](https://ct24.ceskatelevize.cz/clanek/veda/roje-ai-mohou-rozvratit-demokracie-varuji-vyzkumnici-370639) — Czech public broadcaster coverage on how AI swarms could disrupt democracies.
 
 - **NRK** (February 2026): [Falske folkebevegelser truer demokratiet](https://www.nrk.no/ytring/falske-folkebevegelser-truer-demokratiet-1.17745926) — Opinion piece on how fake grassroots movements powered by AI threaten democracy.
