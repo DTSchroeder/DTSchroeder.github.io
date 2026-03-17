@@ -21,7 +21,7 @@ Daniel Thilo Schroeder is a research scientist in AI and computational social sc
 
 ### March
 
-- **LinkedIn (Slovenian)** (March 2026): [The Invisible Side of AI: When Algorithms Become Strategists](https://www.linkedin.com/feed/update/urn:li:activity:7439629729726492672/) — Discussion on how AI systems can identify key influencers and target disinformation based on psychological profiles.
+- **Slovenian TV** (March 2026): [The Invisible Side of AI: When Algorithms Become Strategists](https://lnkd.in/dCVimQK6) — TV interview on how AI systems can identify key influencers and target disinformation based on psychological profiles.
 
 ### February
 
