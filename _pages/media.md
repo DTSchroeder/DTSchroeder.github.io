@@ -19,6 +19,10 @@ Daniel Thilo Schroeder is a research scientist in AI and computational social sc
 
 ## 2026
 
+### March
+
+- **LinkedIn (Slovenian)** (March 2026): [The Invisible Side of AI: When Algorithms Become Strategists](https://www.linkedin.com/feed/update/urn:li:activity:7439629729726492672/) — Discussion on how AI systems can identify key influencers and target disinformation based on psychological profiles.
+
 ### February
 
 - **Somewhere on Earth: The Global Tech Podcast** (February 2026): [Is the internet still free - and who decides?](https://lnkd.in/ebkhBgwy) — Podcast episode exploring AI swarms and their impact on elections, free speech, and public trust.
