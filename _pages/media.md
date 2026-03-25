@@ -21,6 +21,10 @@ Daniel Thilo Schroeder is a research scientist in AI and computational social sc
 
 ### March
 
+- **Hello Future (Orange)** (March 2026): [Confronting the Illusory Consensus of AI Swarms: Strategies for Preserving Democratic Debate](https://hellofuture.orange.com/en/confronting-the-illusory-consensus-of-ai-swarms-strategies-for-preserving-democratic-debate/) — Orange's research magazine on strategies for countering AI swarm threats to democratic discourse.
+
+- **Nettavisen** (March 2026): [KI-svermer på internett: – Krevende og skummelt](https://www.nettavisen.no/nyheter/forskere-advarer-ki-svermer-truer-demokratiet/s/5-95-2936307) — Norwegian coverage on AI swarms threatening democracy; features interviews with Jonas Kunst and Daniel Schroeder.
+
 - **Slovenian TV** (March 2026): [The Invisible Side of AI: When Algorithms Become Strategists](https://lnkd.in/dCVimQK6) — TV interview on how AI systems can identify key influencers and target disinformation based on psychological profiles.
 
 ### February
