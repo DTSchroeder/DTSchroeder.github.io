@@ -19,6 +19,10 @@ Daniel Thilo Schroeder is a research scientist in AI and computational social sc
 
 ## 2026
 
+### April
+
+- **CXOTalk** (April 2026): [How AI Swarms Weaponize Disinformation](https://www.cxotalk.com/episode/how-ai-swarms-weaponize-disinformation) — Podcast discussion on how AI swarms manufacture synthetic consensus, target corporate reputation, and what organizations can do about them.
+
 ### March
 
 - **Hello Future (Orange)** (March 2026): [Confronting the Illusory Consensus of AI Swarms: Strategies for Preserving Democratic Debate](https://hellofuture.orange.com/en/confronting-the-illusory-consensus-of-ai-swarms-strategies-for-preserving-democratic-debate/) — Orange's research magazine on strategies for countering AI swarm threats to democratic discourse.
