@@ -21,6 +21,8 @@ Daniel Thilo Schroeder is a research scientist in AI and computational social sc
 
 ### April
 
+- **Sikkerhetskonferansen 2026 (NSM)** (April 22, 2026): [From Cyborg Propaganda to Malicious AI Swarms: Cognitive security and the new architecture of influence](https://nsm.no/kurs-og-konferanser/sikkerhetskonferansen/program-2026/from-cyborg-propaganda-to-malicious-ai-swarms-cognitive-security-and-the-new-architecture-of-influence-eng) — Talk at Norway's National Security Conference on hybrid influence threats and defense strategies. [[Paper: AI Swarms]](https://arxiv.org/pdf/2506.06299) [[Paper: Cyborg Propaganda]](https://arxiv.org/abs/2602.13088) [[Slides]](https://drive.google.com/drive/folders/1aXrjkp5F_QSM5yb3yZTKmo9EgKM2PFXs?usp=sharing)
+
 - **CXOTalk** (April 2026): [How AI Swarms Weaponize Disinformation](https://www.cxotalk.com/episode/how-ai-swarms-weaponize-disinformation) — Podcast discussion on how AI swarms manufacture synthetic consensus, target corporate reputation, and what organizations can do about them.
 
 ### March
