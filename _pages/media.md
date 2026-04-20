@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Media, Talks & Keynotes"
+title: "Public Engagement"
 permalink: /media/
 author_profile: true
 ---
