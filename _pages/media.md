@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Media Coverage"
+title: "Media, Talks & Keynotes"
 permalink: /media/
 author_profile: true
 ---
 
-Coverage of my research in international media, particularly regarding the *Science* Policy Forum article on AI swarms and democracy.
+Coverage of my research in international media, plus selected talks and keynotes.
 
 ---
 
