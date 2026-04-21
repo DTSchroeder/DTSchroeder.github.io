@@ -1,6 +1,9 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+/* Hide print-only elements on screen */
+.print-header { display: none; }
+
 html {
   /* sticky footer fix */
   position: relative;

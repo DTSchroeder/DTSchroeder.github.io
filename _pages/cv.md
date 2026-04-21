@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="print-header">
+  <h1>Daniel Thilo Schroeder</h1>
+  <p>contact@danielthiloschroeder.org &nbsp;·&nbsp; +47 907 58 926</p>
+</div>
+
 Functions
 ======
 

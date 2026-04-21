@@ -4,6 +4,13 @@
 
 @page {
   margin: 1.8cm 2cm;
+  /* suppress browser-printed URL, title, date, and page number */
+  @top-left   { content: none; }
+  @top-center { content: none; }
+  @top-right  { content: none; }
+  @bottom-left   { content: none; }
+  @bottom-center { content: none; }
+  @bottom-right  { content: none; }
 }
 
 @media print {
@@ -78,5 +85,24 @@
   .archive__item,
   .page__content > ul > li {
     page-break-inside: avoid;
+  }
+
+  /* --- Print-only contact header --- */
+  .print-header {
+    display: block !important;
+    border-bottom: 1pt solid #000;
+    margin-bottom: 12pt;
+    padding-bottom: 6pt;
+  }
+
+  .print-header h1 {
+    margin: 0 0 2pt 0 !important;
+    font-size: 20pt !important;
+  }
+
+  .print-header p {
+    margin: 0 !important;
+    font-size: 10pt !important;
+    color: #333 !important;
   }
 }
