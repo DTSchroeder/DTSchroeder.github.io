@@ -79,4 +79,4 @@ Supervisions
 Public Engagement
 ======
 
-Selected media coverage, talks, and keynotes. [Full list →](/media/)
+{% include media-list.html %}

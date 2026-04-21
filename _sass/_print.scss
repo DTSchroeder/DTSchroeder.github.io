@@ -2,17 +2,81 @@
    PRINT STYLES
    ========================================================================== */
 
-/*
-   Hide the following elements on print
-   ========================================================================== */
+@page {
+  margin: 1.8cm 2cm;
+}
 
 @media print {
+
+  /* --- Hide chrome --- */
   .masthead,
   .toc,
   .page__share,
   .page__related,
   .ads,
-  .page__footer {
-    display: none;
+  .page__footer,
+  .page__footer-follow,
+  nav,
+  .breadcrumbs,
+  .pagination,
+  .sidebar,
+  .author__avatar,
+  .author__content,
+  .author__urls-wrapper {
+    display: none !important;
+  }
+
+  /* --- Full-width content --- */
+  #main {
+    margin-top: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+    float: none !important;
+    width: 100% !important;
+  }
+
+  .archive,
+  .page {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* --- Typography --- */
+  body {
+    font-size: 10pt !important;
+    color: #000 !important;
+    background: #fff !important;
+  }
+
+  h1 { font-size: 18pt !important; margin-bottom: 4pt !important; }
+  h2 { font-size: 13pt !important; margin-top: 14pt !important; margin-bottom: 2pt !important;
+       border-bottom: 0.5pt solid #aaa !important; padding-bottom: 2pt !important; }
+  h3 { font-size: 11pt !important; margin-top: 8pt !important; margin-bottom: 1pt !important; }
+
+  p, li {
+    font-size: 9.5pt !important;
+    line-height: 1.4 !important;
+  }
+
+  /* --- Links: show as plain text, keep URL visible --- */
+  a {
+    color: #000 !important;
+    text-decoration: none !important;
+  }
+
+  /* --- Page break control --- */
+  h2, h3 {
+    page-break-after: avoid;
+  }
+
+  ul, li {
+    page-break-inside: avoid;
+  }
+
+  .archive__item,
+  .page__content > ul > li {
+    page-break-inside: avoid;
   }
 }
