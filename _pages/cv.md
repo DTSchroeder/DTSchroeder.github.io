@@ -52,3 +52,31 @@ Language Skills
 * English (+)
 * Portuguese (+-)
 * Norwegian Bokmål (-)
+
+Publications
+======
+
+{% assign publications_by_year = site.publications | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reverse %}
+{% for year in publications_by_year %}
+<h2>{{ year.name }}</h2>
+<ul>
+  {% assign sorted_posts = year.items | sort: "date" | reverse %}
+  {% for post in sorted_posts %}
+    {% include archive-single-publication.html %}
+  {% endfor %}
+</ul>
+{% endfor %}
+
+Supervisions
+======
+
+<ul>
+  {% for post in site.supervisions reversed %}
+    {% include archive-single-supervision.html %}
+  {% endfor %}
+</ul>
+
+Public Engagement
+======
+
+Selected media coverage, talks, and keynotes. [Full list →](/media/)
