@@ -87,6 +87,10 @@
     page-break-inside: avoid;
   }
 
+  .cv-print-note {
+    display: none !important;
+  }
+
   /* --- Print-only contact header --- */
   .print-header {
     display: block !important;

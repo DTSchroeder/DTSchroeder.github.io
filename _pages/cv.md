@@ -14,6 +14,10 @@ redirect_from:
   <p>contact@danielthiloschroeder.org &nbsp;·&nbsp; +47 907 58 926</p>
 </div>
 
+<div class="cv-print-note">
+  For a formatted CV, use your browser's Print function on this page and save as PDF.
+</div>
+
 Functions
 ======
 
