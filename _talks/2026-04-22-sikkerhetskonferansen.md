@@ -30,6 +30,15 @@ Online influence operations are evolving from isolated fake accounts into persis
 - [How malicious AI swarms can threaten democracy (PDF)](https://arxiv.org/pdf/2506.06299) — *Science* Policy Forum article on AI swarms and democratic resilience
 - [How cyborg propaganda reshapes collective action](https://arxiv.org/abs/2602.13088) — Research on human-AI hybrid influence operations
 
+### Video
+- [Watch the talk (NSM livestream recording)](https://nsm.no/kurs-og-konferanser/sikkerhetskonferansen/om-arets-konferanse-2026/)
+
 ### Event
 - [Conference Program](https://nsm.no/kurs-og-konferanser/sikkerhetskonferansen/program-2026/from-cyborg-propaganda-to-malicious-ai-swarms-cognitive-security-and-the-new-architecture-of-influence-eng)
 - [Sikkerhetskonferansen 2026](https://nsm.no/kurs-og-konferanser/sikkerhetskonferansen/sikkerhetskonferansen-2026/)
+
+## Photos
+
+![Daniel Thilo Schroeder presenting at Sikkerhetskonferansen 2026, NSM National Security Conference, Oslo, Norway](/images/Sikkerhetskonferansen_1.png)
+
+![Daniel Thilo Schroeder speaking on AI swarms and cognitive security at Sikkerhetskonferansen 2026, NSM National Security Conference](/images/Sikkerhetskonferansen_2.png)
