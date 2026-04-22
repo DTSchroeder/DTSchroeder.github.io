@@ -6,6 +6,7 @@ permalink: /talks/2026-04-22-sikkerhetskonferansen
 venue: "Sikkerhetskonferansen 2026 (National Security Conference)"
 date: 2026-04-22
 location: "Oslo, Norway"
+description: "Daniel Thilo Schroeder's talk at Sikkerhetskonferansen 2026 (NSM National Security Conference, Oslo, Norway) on cyborg propaganda and malicious AI swarms — cognitive security and the new architecture of influence."
 ---
 
 Talk at Norway's National Security Conference (NSM) on hybrid influence threats and defense strategies.
