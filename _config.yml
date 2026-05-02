@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Daniel Thilo Schroeder"
 title_separator          : "-"
 name                     : &name "Daniel Thilo Schroeder"
-description              : &description "Researcher at Sintef, Associate Professor at OsloMet"
-url                      : https://danielthiloschroeder.org/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Research Scientist at SINTEF working on information integrity, AI-enabled influence operations, scalable graph computation, and data infrastructure."
+url                      : https://danielthiloschroeder.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DTSchroeder/DTSchroeder.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -155,6 +155,7 @@ exclude:
   - config
   - gulpfile.js
   - log
+  - markdown_generator
   - node_modules
   - package.json
   - tmp

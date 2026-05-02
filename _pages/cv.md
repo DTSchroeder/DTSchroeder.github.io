@@ -50,10 +50,11 @@ Education
 
 Research Expertise
 ======
-* Computational Social Science.
-* Complex Networks.
-* Graph Neural Networks.
-* Data Management.
+* AI-enabled influence operations, disinformation, and information integrity.
+* Malicious AI swarms, synthetic consensus, and agent-based threat modeling.
+* Computational social science and complex network analysis.
+* Scalable graph computation, graph neural networks, and extreme-scale data systems.
+* Data infrastructure, interoperability, and FAIR data for marine and environmental domains.
 
 Language Skills
 ======

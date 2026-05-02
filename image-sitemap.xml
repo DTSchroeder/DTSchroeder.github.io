@@ -1,0 +1,24 @@
+---
+layout: null
+permalink: /image-sitemap.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+{% assign image_documents = site.pages | concat: site.talks | concat: site.publications | concat: site.supervisions %}
+{% for document in image_documents %}
+{% if document.images %}
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}{{ document.url }}</loc>
+{% for image in document.images %}
+    <image:image>
+      <image:loc>{% if image.path contains "://" %}{{ image.path }}{% elsif image.path contains "/images/" %}{{ site.url }}{{ site.baseurl }}{{ image.path }}{% else %}{{ site.url }}{{ site.baseurl }}/images/{{ image.path }}{% endif %}</image:loc>{% if image.title %}
+      <image:title>{{ image.title | escape }}</image:title>{% endif %}{% if image.caption %}
+      <image:caption>{{ image.caption | escape }}</image:caption>{% endif %}
+    </image:image>
+{% endfor %}
+  </url>
+{% endif %}
+{% endfor %}
+</urlset>
