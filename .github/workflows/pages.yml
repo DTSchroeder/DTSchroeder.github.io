@@ -30,10 +30,15 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3"
-          bundler-cache: true
+
+      - name: Install dependencies
+        run: |
+          gem install bundler -v 2.3.27
+          bundle _2.3.27_ lock --add-platform x86_64-linux
+          bundle _2.3.27_ install --jobs 4 --retry 3
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build
+        run: bundle _2.3.27_ exec jekyll build
         env:
           JEKYLL_ENV: production
 
