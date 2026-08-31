@@ -12,8 +12,8 @@ main:
   - title: "Supervision"
     url: /supervisions/    
     
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Projects"
+    url: /projects/
     
   - title: "CV"
     url: /cv/

@@ -78,12 +78,19 @@
     page-break-after: avoid;
   }
 
-  ul, li {
+  ul, ol {
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+
+  li {
+    break-inside: avoid;
     page-break-inside: avoid;
   }
 
   .archive__item,
   .page__content > ul > li {
+    break-inside: avoid;
     page-break-inside: avoid;
   }
 
