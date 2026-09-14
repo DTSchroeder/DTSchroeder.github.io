@@ -33,6 +33,13 @@ redirect_from:
 </p>
 
 <p>
+  I am also part of <a href="https://www.sintef.no/en/projects/2026/cerebra/">CEREBRA-AI</a>, a Horizon Europe project
+  developing a trustworthy general-purpose AI platform. Within SINTEF's Smart Data work, this connects knowledge graphs,
+  neuro-symbolic reasoning, provenance, uncertainty-aware inference, and trustworthy data pipelines, with pilots in
+  maritime trajectory analysis and coastal resilience in the Oslo Fjord.
+</p>
+
+<p>
   I also collaborate with
   <a href="https://www.sintef.no/alle-ansatte/ansatt/arne.j.berre/">Arne Jørgen Berre</a>
   on a cluster of projects advancing data infrastructure and interoperability for marine and environmental domains, including

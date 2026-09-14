@@ -59,6 +59,7 @@ Research Expertise
 Selected Projects
 ======
 * AI-enabled influence operations and malicious AI swarms, 2025 - now: threat modeling, simulation, evaluation, and AI Influence Observatory concepts.
+* CEREBRA, 2026 - 2030: trustworthy general-purpose AI with knowledge graphs, neuro-symbolic reasoning, provenance, and uncertainty-aware decision-support pipelines.
 * UMOD - Understanding and Monitoring Digital Wildfires, 2017 - 2020: automated detection and analysis of fast-spreading online misinformation.
 * DD-MAC - Decoding Digital Media in African Regions of Conflict, 2021 - 2024: computational methods for studying social media, disinformation, and conflict dynamics in Ethiopia and Mali.
 * Graph-Massivizer, 2023 - 2025: scalable and sustainable processing of extreme data through massive graph representations.
