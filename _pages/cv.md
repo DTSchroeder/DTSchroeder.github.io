@@ -63,7 +63,7 @@ Selected Projects
 * UMOD - Understanding and Monitoring Digital Wildfires, 2017 - 2020: automated detection and analysis of fast-spreading online misinformation.
 * DD-MAC - Decoding Digital Media in African Regions of Conflict, 2021 - 2024: computational methods for studying social media, disinformation, and conflict dynamics in Ethiopia and Mali.
 * Graph-Massivizer, 2023 - 2025: scalable and sustainable processing of extreme data through massive graph representations.
-* Enabling Graph Neural Networks at Exascale, 2020 - 2022: computational frameworks for scaling graph neural networks on parallel systems.
+* EGNE - Enabling Graph Neural Networks at Exascale, 2020 - 2022: postdoctoral research at Simula Research Laboratory on computational frameworks for scaling graph neural networks on parallel systems.
 * enRichMyData, 2022 - 2025: scalable data enrichment, cleaning, and linking pipelines for AI and big-data applications.
 * AquaINFRA, 2023 - 2026: FAIR data infrastructure and virtual research environments for marine and freshwater science.
 * SEADITO, 2024 - 2027: data infrastructure and interoperability for social-ecological models in the European Digital Twin Ocean context.

@@ -83,7 +83,8 @@ redirect_from:
   I worked with <a href="https://scholar.google.com/citations?user=ilbKQMYAAAAJ&amp;hl=en">Johannes Langguth</a>,
   <a href="https://scholar.google.com/citations?user=IWQbrcK5CEwC&amp;hl=en">Xing Cai</a>, and
   <a href="https://scholar.google.no/citations?user=K-N0vTcAAAAJ&amp;hl=no">Fredrik Manne</a>
-  on computational frameworks for Graph Neural Networks, with the goal of extending deep learning capabilities to unstructured data.
+  on <a href="https://www.simula.no/research/projects/enabling-graph-neural-networks-exascale">EGNE - Enabling Graph Neural Networks at Exascale</a>.
+  My work focused on computational frameworks for Graph Neural Networks, with the goal of extending deep learning capabilities to unstructured data.
 </p>
 
 <p>
