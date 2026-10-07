@@ -99,6 +99,11 @@ Supervisions
   {% endfor %}
 </ul>
 
+Scientific Workshops
+======
+
+{% include workshop-list.html %}
+
 Public Engagement
 ======
 

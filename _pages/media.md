@@ -3,10 +3,10 @@ layout: archive
 title: "Public Engagement"
 permalink: /media/
 author_profile: true
-description: "Public engagement and media coverage of Daniel Thilo Schroeder, research scientist in AI and disinformation."
+description: "Public engagement, media coverage, and scientific workshop participation of Daniel Thilo Schroeder, research scientist in AI and disinformation."
 ---
 
-Coverage of my research in international media, plus selected talks and keynotes.
+Coverage of my research in international media, plus selected talks, keynotes, and scientific workshops.
 
 ---
 
@@ -18,5 +18,10 @@ Daniel Thilo Schroeder is a research scientist in AI and computational social sc
 
 ---
 
-{% include media-list.html %}
+## Scientific Workshops
 
+{% include workshop-list.html %}
+
+---
+
+{% include media-list.html %}
