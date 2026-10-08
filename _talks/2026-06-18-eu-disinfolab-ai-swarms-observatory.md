@@ -2,6 +2,7 @@
 title: "From Botnets to AI Swarms: Tracking Emerging Risks Through an AI Influence Observatory"
 collection: talks
 type: "Webinar"
+role: "Speaker"
 permalink: /talks/2026-06-18-eu-disinfolab-ai-swarms-observatory
 venue: "EU DisinfoLab"
 date: 2026-06-18

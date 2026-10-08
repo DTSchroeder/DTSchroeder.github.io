@@ -1,0 +1,21 @@
+# Events without a dedicated talk page. Other events come from the talks collection.
+- id: csh-vienna-2026
+  title: "From Fear to Forecast: Understanding AI Swarms"
+  date: "2026-10-05"
+  date_display: "October 5-7, 2026"
+  venue: "Complexity Science Hub"
+  location: "Vienna, Austria"
+  role: "Workshop participant"
+  category: workshop
+  url: https://www.sg.ethz.ch/events/csh-workshop-ai-swarms-october-2026/
+  summary: "Interdisciplinary discussions on collective AI behaviour, methods for studying AI swarms, and interventions to detect, steer, or disrupt harmful coordination."
+
+- id: helsinki-committee-2026
+  title: "From Cyborg Propaganda to Malicious AI Swarms: Cognitive Security and the New Architecture of Influence"
+  date: "2026-04-23"
+  venue: "Norwegian Helsinki Committee Annual Meeting"
+  location: "Oslo, Norway"
+  role: "Invited speaker"
+  category: talk
+  url: https://www.nhc.no
+  summary: "Invited lecture on AI-driven influence operations, synthetic consensus, and threats to democratic resilience."

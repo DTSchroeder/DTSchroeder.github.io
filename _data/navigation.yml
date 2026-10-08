@@ -6,8 +6,8 @@ main:
   - title: "Public Engagement"
     url: /media/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Events"
+    url: /events/
 
   - title: "Supervision"
     url: /supervisions/    

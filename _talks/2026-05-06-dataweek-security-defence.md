@@ -2,6 +2,7 @@
 title: "Data & AI for Europe’s Security and Defence: Trustworthy Intelligence in a Geopolitical Era"
 collection: talks
 type: "Panel"
+role: "Panellist"
 permalink: /talks/2026-05-06-dataweek-security-defence
 venue: "Data Week 2026"
 date: 2026-05-06

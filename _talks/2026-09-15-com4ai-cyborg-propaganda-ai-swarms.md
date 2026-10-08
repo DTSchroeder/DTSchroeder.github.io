@@ -2,6 +2,7 @@
 title: "When Humans Become Machines and Machines Become Human"
 collection: talks
 type: "Online talk and discussion"
+role: "Speaker"
 permalink: /talks/2026-09-15-com4ai-cyborg-propaganda-ai-swarms
 venue: "COM4AI (Communication for AI)"
 date: 2026-09-15

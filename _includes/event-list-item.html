@@ -1,0 +1,12 @@
+{% assign event = include.event %}
+{% assign event_url = event.permalink | default: event.url %}
+{% unless event_url contains '://' %}
+  {% assign event_url = event_url | prepend: site.baseurl %}
+{% endunless %}
+{% assign event_date = event.date | date: "%B %-d, %Y" %}
+<li>
+  <strong>{{ event.venue | escape }}</strong> ({{ event.date_display | default: event_date | escape }}):
+  <a href="{{ event_url | escape }}">{{ event.title | escape }}</a><br />
+  <em>{{ event.role | default: event.type | escape }}</em>{% if event.location %} - {{ event.location | escape }}{% endif %}
+  {% if event.summary %}<br />{{ event.summary | escape }}{% endif %}
+</li>

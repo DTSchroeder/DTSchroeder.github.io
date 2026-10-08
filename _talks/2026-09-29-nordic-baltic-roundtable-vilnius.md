@@ -2,6 +2,7 @@
 title: "New Challenges - Are We Up to It? AI Scenarios"
 collection: talks
 type: "Invited talk and panel discussion"
+role: "Invited speaker and panellist"
 permalink: /talks/2026-09-29-nordic-baltic-roundtable-vilnius
 venue: "Nordic-Baltic Roundtable: Maritime Domain, Resilience, and Industry"
 date: 2026-09-29

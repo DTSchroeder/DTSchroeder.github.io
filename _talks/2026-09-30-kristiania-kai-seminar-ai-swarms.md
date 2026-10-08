@@ -2,6 +2,7 @@
 title: "Malicious AI Swarms as Social Systems: Coordination, Influence, and Collective Dynamics"
 collection: talks
 type: "Invited seminar"
+role: "Invited speaker"
 permalink: /talks/2026-09-30-kristiania-kai-seminar-ai-swarms
 venue: "KAI Seminar, Kristiania"
 date: 2026-09-30

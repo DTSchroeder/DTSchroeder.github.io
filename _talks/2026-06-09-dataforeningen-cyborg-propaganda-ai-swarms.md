@@ -2,6 +2,7 @@
 title: "Lunchwebinar: From Cyborg Propaganda to Malicious AI Swarms: Cognitive security and the new architecture of influence"
 collection: talks
 type: "Webinar"
+role: "Speaker"
 permalink: /talks/2026-06-09-dataforeningen-cyborg-propaganda-ai-swarms
 venue: "Dataforeningen / AI Sør-Øst"
 date: 2026-06-09

@@ -2,9 +2,11 @@
 title: "Speaker at Industriuka 2026"
 collection: talks
 type: "Speaker appearance"
+role: "Speaker"
 permalink: /talks/2026-06-01-industriuka
 venue: "Industriuka 2026"
 date: 2026-06-01
+date_display: "June 1-4, 2026"
 location: "Porsgrunn, Norway"
 description: "Daniel Thilo Schroeder's speaker appearance at Industriuka 2026, Norway's meeting place for green industry, on AI, digital communication, and influence."
 ---

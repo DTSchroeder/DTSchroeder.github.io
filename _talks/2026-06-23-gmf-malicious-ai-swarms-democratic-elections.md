@@ -2,6 +2,7 @@
 title: "How do malicious AI swarms threaten democratic elections?"
 collection: talks
 type: "Panel session"
+role: "Panellist"
 permalink: /talks/2026-06-23-gmf-malicious-ai-swarms-democratic-elections
 venue: "DW Global Media Forum 2026"
 date: 2026-06-23

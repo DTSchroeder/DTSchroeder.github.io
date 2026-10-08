@@ -1,0 +1,26 @@
+---
+layout: archive
+title: "Events"
+permalink: /events/
+author_profile: true
+description: "Talks, seminars, panels, and workshop participation by Daniel Thilo Schroeder, with dates, venues, and roles."
+---
+
+{% assign talks = site.talks | where_exp: "event", "event.venue != nil" %}
+{% assign events = talks | concat: site.data.events %}
+{% assign event_years = events | group_by_exp: "event", "event.date | date: '%Y'" | sort: "name" | reverse %}
+{% for year in event_years %}
+<h2>{{ year.name }}</h2>
+{% assign event_months = year.items | group_by_exp: "event", "event.date | date: '%m'" | sort: "name" | reverse %}
+{% for month in event_months %}
+<h3>{{ month.items.first.date | date: "%B" }}</h3>
+<ul>
+  {% assign event_days = month.items | group_by_exp: "event", "event.date | date: '%d'" | sort: "name" | reverse %}
+  {% for day in event_days %}
+    {% for event in day.items %}
+      {% include event-list-item.html event=event %}
+    {% endfor %}
+  {% endfor %}
+</ul>
+{% endfor %}
+{% endfor %}

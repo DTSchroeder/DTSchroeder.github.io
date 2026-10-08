@@ -2,6 +2,7 @@
 title: "Samfunnsdebatten under angrep, med desinformasjon som våpen"
 collection: talks
 type: "Talk and panel discussion"
+role: "Speaker and panellist"
 permalink: /talks/2026-08-12-arendalsuka-samfunnsdebatten-desinformasjon-ai-swarms
 venue: "Arendalsuka 2026"
 date: 2026-08-12

@@ -2,6 +2,7 @@
 title: "TEDxBratislava: A Touch of Lightness"
 collection: talks
 type: "TEDx talk"
+role: "Speaker"
 permalink: /talks/2026-05-30-tedxbratislava
 venue: "TEDxBratislava"
 date: 2026-05-30

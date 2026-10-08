@@ -2,6 +2,7 @@
 title: "From Cyborg Propaganda to Malicious AI Swarms: Cognitive security and the new architecture of influence"
 collection: talks
 type: "Talk"
+role: "Speaker"
 permalink: /talks/2026-04-22-sikkerhetskonferansen
 venue: "Sikkerhetskonferansen 2026 (National Security Conference)"
 date: 2026-04-22
