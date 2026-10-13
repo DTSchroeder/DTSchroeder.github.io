@@ -1,0 +1,11 @@
+<ul class="profile-links">
+  {% if site.author.twitter %}<li><a href="https://twitter.com/{{ site.author.twitter }}">X / Twitter</a></li>{% endif %}
+  {% if site.author.bluesky %}<li><a href="{{ site.author.bluesky }}">Bluesky</a></li>{% endif %}
+  {% if site.author.mastodon %}<li><a href="{{ site.author.mastodon }}">Mastodon</a></li>{% endif %}
+  {% if site.author.substack %}<li><a href="{{ site.author.substack }}">Substack profile</a></li>{% endif %}
+  {% if site.author.researchgate %}<li><a href="{{ site.author.researchgate }}">ResearchGate</a></li>{% endif %}
+  {% if site.author.pubmed %}<li><a href="{{ site.author.pubmed }}">PubMed</a></li>{% endif %}
+  {% if site.author.osf %}<li><a href="{{ site.author.osf }}">OSF</a></li>{% endif %}
+  {% if site.author.academia %}<li><a href="{{ site.author.academia }}">Academia</a></li>{% endif %}
+  {% if site.author.frontiers %}<li><a href="{{ site.author.frontiers }}">Frontiers</a></li>{% endif %}
+</ul>

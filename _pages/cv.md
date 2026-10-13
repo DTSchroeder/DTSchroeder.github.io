@@ -10,8 +10,11 @@ redirect_from:
 {% include base_path %}
 
 <div class="print-header">
-  <h1>Daniel Thilo Schroeder</h1>
-  <p>contact@danielthiloschroeder.org &nbsp;·&nbsp; +47 907 58 926</p>
+  <div class="print-header__details">
+    <h1>Daniel Thilo Schroeder</h1>
+    <p>contact@danielthiloschroeder.org &nbsp;·&nbsp; +47 907 58 926</p>
+  </div>
+  <img class="print-header__portrait" src="{{ base_path }}/images/daniel_thilo_schroeder.png" alt="Daniel Thilo Schroeder" width="500" height="502">
 </div>
 
 <div class="cv-print-note">
@@ -93,16 +96,7 @@ Publications
 Supervisions
 ======
 
-<ul>
-  {% for post in site.supervisions reversed %}
-    {% include archive-single-supervision.html %}
-  {% endfor %}
-</ul>
-
-Scientific Workshops
-======
-
-{% include workshop-list.html %}
+{% include supervision-list.html %}
 
 Public Engagement
 ======

@@ -43,6 +43,27 @@
   }
 }
 
+.home .page__content {
+  text-align: left;
+  overflow-wrap: break-word;
+
+  li {
+    margin-bottom: 0.8em;
+  }
+
+  .profile-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em 1.2em;
+    padding: 0;
+    list-style: none;
+
+    li {
+      margin: 0;
+    }
+  }
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;

@@ -19,3 +19,47 @@
   category: talk
   url: https://www.nhc.no
   summary: "Invited lecture on AI-driven influence operations, synthetic consensus, and threats to democratic resilience."
+
+- id: cscw-beyond-information-2025
+  title: "Beyond Information: Online Participatory Culture and Information Disorder"
+  date: "2025-10-18"
+  date_display: "October 3 (online) and October 18 (Bergen), 2025"
+  venue: "ACM CSCW 2025"
+  location: "Bergen, Norway, and online"
+  role: "Workshop co-organiser"
+  category: workshop
+  url: https://cscw2025infodisorder.netlify.app/
+  summary: "Co-organised a workshop on participatory online culture, misinformation, and disinformation, bringing researchers together to identify research priorities, interventions, and ways to support the research community."
+
+- id: mediaeval-fakenews-2022
+  title: "FakeNews Detection"
+  date: "2023-01-12"
+  date_display: "January 12-13, 2023"
+  venue: "MediaEval 2022 Workshop"
+  location: "Bergen, Norway, and online"
+  role: "Task co-organiser"
+  category: workshop
+  url: https://multimediaeval.github.io/editions/2022/tasks/fakenews/
+  summary: "Co-organised the FakeNews benchmark task combining tweet text and social-network graphs to detect COVID-19 conspiracy narratives and their spreaders. The 2022 edition's workshop was held in January 2023 alongside MMM 2023."
+
+- id: mediaeval-fakenews-2021
+  title: "FakeNews: Corona Virus and Conspiracies Multimedia Analysis Task"
+  date: "2021-12-13"
+  date_display: "December 13-15, 2021"
+  venue: "MediaEval 2021 Workshop"
+  location: "Online"
+  role: "Task co-organiser"
+  category: workshop
+  url: https://multimediaeval.github.io/editions/2021/tasks/fakenews/
+  summary: "Co-organised the FakeNews benchmark task on detecting COVID-19 misinformation and conspiracy topics in tweets, including whether posts promote or discuss those narratives."
+
+- id: mediaeval-fakenews-2020
+  title: "FakeNews: Corona Virus and 5G Conspiracy"
+  date: "2020-12-11"
+  date_display: "December 11 and 14-15, 2020"
+  venue: "MediaEval 2020 Workshop"
+  location: "Online"
+  role: "Task co-organiser"
+  category: workshop
+  url: https://multimediaeval.github.io/editions/2020/tasks/fakenews/
+  summary: "Co-organised the first FakeNews benchmark task, evaluating text-based and network-based methods for detecting COVID-19 and 5G conspiracy misinformation."

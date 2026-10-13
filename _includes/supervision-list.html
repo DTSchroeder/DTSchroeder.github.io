@@ -1,0 +1,20 @@
+{% assign current_supervisions = site.supervisions | where: "status", "ongoing" | sort: "title" %}
+{% assign completed_supervisions = site.supervisions | where_exp: "supervision", "supervision.status != 'ongoing'" | sort: "date" | reverse %}
+
+{% if current_supervisions.size > 0 %}
+<h2>Current Supervisions</h2>
+<ul>
+  {% for post in current_supervisions %}
+    {% include archive-single-supervision.html %}
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if completed_supervisions.size > 0 %}
+<h2>Completed Supervisions</h2>
+<ul>
+  {% for post in completed_supervisions %}
+    {% include archive-single-supervision.html %}
+  {% endfor %}
+</ul>
+{% endif %}

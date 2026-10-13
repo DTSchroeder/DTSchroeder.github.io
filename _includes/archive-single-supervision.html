@@ -16,10 +16,11 @@
 <li>
   <div>
     {% if post.file %}
-      <a href="{{ base_path }}/files/theses/{{post.file}}" class="style1" rel="permalink">{{ title }}</a><br>
+      <a href="{{ base_path }}/files/theses/{{post.file}}" class="style1" rel="permalink">{{ title }}</a>
     {% else %}
-      <span class="style1">{{ title }}</span><br>
+      <span class="style1">{{ title }}</span>
     {% endif %}
+    {% if post.working_title %}<em>(working title)</em>{% endif %}<br>
     <div class="author">{{ post.student }}&nbsp;</div>
     <div class="uni">&nbsp;({{ post.uni }})</div>
   </div>

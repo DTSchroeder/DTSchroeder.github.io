@@ -15,6 +15,17 @@
 
 @media print {
 
+  /* Screen-only sticky-footer space can spill onto an empty printed page. */
+  html,
+  body {
+    position: static !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+  }
+
   /* --- Hide chrome --- */
   .masthead,
   .toc,
@@ -40,6 +51,7 @@
     max-width: 100% !important;
     float: none !important;
     width: 100% !important;
+    animation: none !important;
   }
 
   .archive,
@@ -74,7 +86,8 @@
   }
 
   /* --- Page break control --- */
-  h2, h3 {
+  h1, h2, h3 {
+    break-after: avoid;
     page-break-after: avoid;
   }
 
@@ -98,12 +111,33 @@
     display: none !important;
   }
 
+  .page__title:empty {
+    display: none !important;
+  }
+
   /* --- Print-only contact header --- */
   .print-header {
-    display: block !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18pt;
     border-bottom: 1pt solid #000;
     margin-bottom: 12pt;
     padding-bottom: 6pt;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .print-header__details {
+    min-width: 0;
+  }
+
+  .print-header__portrait {
+    flex: 0 0 32mm;
+    width: 32mm;
+    height: 32mm;
+    object-fit: cover;
+    border-radius: 50%;
   }
 
   .print-header h1 {
