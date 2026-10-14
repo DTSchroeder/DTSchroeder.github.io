@@ -10,6 +10,16 @@
   url: https://www.sg.ethz.ch/events/csh-workshop-ai-swarms-october-2026/
   summary: "Interdisciplinary discussions on collective AI behaviour, methods for studying AI swarms, and interventions to detect, steer, or disrupt harmful coordination."
 
+- id: nobel-peace-conference-2026
+  title: "Nobel Peace Conference 2026: Democracy on the Brink"
+  date: "2026-09-03"
+  venue: "Nobel Peace Center"
+  location: "Oslo, Norway"
+  role: "Invited guest"
+  category: conference
+  url: https://www.nobelpeacecenter.org/en/programme-2026
+  summary: "Also invited to the official reception at Oslo City Hall on September 2, hosted by the Mayor of Oslo on the occasion of the conference."
+
 - id: helsinki-committee-2026
   title: "From Cyborg Propaganda to Malicious AI Swarms: Cognitive Security and the New Architecture of Influence"
   date: "2026-04-23"
