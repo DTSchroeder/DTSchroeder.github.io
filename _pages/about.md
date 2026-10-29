@@ -17,6 +17,10 @@ My recent work asks how coordinated AI systems could manipulate public debate, a
 
 - **[How malicious AI swarms can threaten democracy]({{ '/publication/2026-01-23-malicious-ai-swarms-science-39' | relative_url }})** · *Science, 2026*<br />
   How coordinated AI agents could manufacture apparent public agreement, and where technical and policy responses could help.
+- **[Puppets or partners? Governing cyborg propaganda in the digital public square]({{ '/publication/2026-02-18-disinformation-agentic-ai-40' | relative_url }})** · *arXiv preprint, February 2026*<br />
+  How verified human accounts and AI-generated messages combine in cyborg propaganda, and the governance challenges this creates for democratic discourse.
+- **[AI Swarm Intelligence Must Be Studied as a Sociotechnical Phenomenon]({{ '/publication/2026-10-15-ai-swarm-intelligence-47' | relative_url }})** · *SocArXiv preprint, October 2026*<br />
+  A framework for studying how individual AI capabilities, multi-agent coordination, and population dynamics interact to shape collective influence.
 - **[IO Factory: Simulating AI-Enabled Influence Campaigns at Scale]({{ '/publication/2026-08-11-io-factory-44' | relative_url }})** · *arXiv preprint, August 2026*<br />
   A framework for studying coordinated influence campaigns in controlled simulations, with traceable actions and measurements.
 - **[Automated Disinformation and Malicious AI Swarms: Risks for Democracy and Development in Africa]({{ '/publication/2026-10-08-ai-swarms-africa-45' | relative_url }})** · *arXiv preprint, October 2026*<br />
