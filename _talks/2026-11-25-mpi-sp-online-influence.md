@@ -12,6 +12,10 @@ description: "Daniel Thilo Schroeder's invited seminar at MPI-SP on coordinated 
 
 Invited seminar at the Max Planck Institute for Security and Privacy in Bochum, representing SINTEF Digital, during a research visit from November 25 to 27, 2026.
 
+## Presentation
+
+[Download the presentation (PDF, 54 slides)]({{ '/files/slides/2026-11-25-mpi-sp-online-influence.pdf' | relative_url }})
+
 ## Abstract
 
 This talk examines how coordinated AI agents could create the appearance of consensus in public debate. It discusses cyborg propaganda, in which people circulate AI-generated campaign messages, and presents results from IO Factory, our simulation platform, on the reach of coordinated campaigns and changes in trust among the agents exposed to them.
