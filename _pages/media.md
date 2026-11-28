@@ -3,6 +3,7 @@ layout: archive
 title: "Public Engagement"
 permalink: /media/
 author_profile: true
+year_timeline: true
 description: "Public engagement and media coverage of Daniel Thilo Schroeder, research scientist in AI and disinformation."
 ---
 

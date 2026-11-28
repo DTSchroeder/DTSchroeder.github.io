@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /publications/
 author_profile: true
+year_timeline: true
 ---
 
 {% include base_path %}
@@ -10,7 +11,7 @@ author_profile: true
 {% assign publications_by_year = site.publications | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reverse %}
 
 {% for year in publications_by_year %}
-<h2>{{ year.name }}</h2>
+<h2 id="year-{{ year.name }}">{{ year.name }}</h2>
 <ul>
   {% assign sorted_posts = year.items | sort: "date" | reverse %}
   {% for post in sorted_posts %}
